@@ -1,0 +1,8 @@
+@import "tailwindcss";
+body {
+  overflow-x: hidden;
+}
+@theme {
+  --color-primary: #e0df67;
+  --color-secondary: #111827;
+}
