@@ -1,6 +1,6 @@
-# Buytica - E-commerce Website
+# ElectroBase LTD - E-commerce Website
 
-Buytica is a modern, responsive eCommerce web application built with React, Node.js, and Express. It allows users to browse products, view detailed product pages, add items to the cart, and manage their accounts through login and signup functionality.
+Electrobase is a modern, responsive eCommerce web application built with React, Node.js, and Express. It allows users to browse products, view detailed product pages, add items to the cart, and manage their accounts through login and signup functionality.
 
 ---
 
